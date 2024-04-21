@@ -17,3 +17,5 @@ En el repository, hacemos los Query y los implementamos mediante métodos, luego
 **Usar los Métodos en el Controller**
 
 ![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/2d61f753-45cf-4986-9e2f-fd5b066128af)
+
+**NO USAR ; EN LOS @QUERY DE LOS REPOSITORIOSSSSSSSSSSSSSSSSSSSSSSSSS**
