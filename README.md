@@ -45,5 +45,30 @@ Función Now() en Query:
 ![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/e3784eeb-e383-4254-bc12-2af2d32c6b02)
 
 
+**UPDATE**
+
+1) Creamos método que busque por id a la mascota EN SU REPOSITORIO 
+
+2) Aplicamos el método en el controller usandolo con el id que recepcionamos y mandamos el objeto: RECORDAR USAR EL OPTIONAL, luego mandamos a la vista forms por GET
+
+
+![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/cedfb5cd-e293-4d09-b8b7-b3e81af4cc32)
+
+   
+![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/b0147219-a172-4491-b6a5-bf8db6737d5b)
+
+3) Hacemos la vista Forms y mandamos por POST el objeto
+   
+![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/18cbc7d5-ea5a-4190-8036-2f935d49f83f)
+
+5) Por PostMapping recepcionamos el objeto y lo actualizamos creando el método de UPDATE
+   
+![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/83bb99db-8232-4089-8ada-1e1dbfd99a69)
+
+
+![image](https://github.com/SergioABS-GTICS/clase3-1/assets/154263057/2045d0d3-3c41-435f-bc3f-9792796f8407)
+
+
+
 
 
